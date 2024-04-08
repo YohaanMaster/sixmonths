@@ -360,7 +360,7 @@ div.articleRightInner {
 	text-align: center;
 	overflow: hidden;
 }
-div:target {
+ol li:target {
   border: 2px solid pink;
 }
 .logo {
