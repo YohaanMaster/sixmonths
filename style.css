@@ -2,6 +2,11 @@
 	font-family: "Linux Libertine";
 	src: url("fonts/LinLibertine_RZ.woff") format('woff');
 }
+ol li:target {
+  background-color: hotpink;
+  text-decoration: underline;
+  text-decoration-color: hotpink;
+}
 html {
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
@@ -359,10 +364,6 @@ div.articleRightInner {
 	font-size: 94%;
 	text-align: center;
 	overflow: hidden;
-}
-ol li:target {
-  text-decoration: underline;
-  text-decoration-color: hotpink;
 }
 .logo {
 	margin-bottom: 20px;
