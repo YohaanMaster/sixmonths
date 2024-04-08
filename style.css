@@ -362,7 +362,7 @@ div.articleRightInner {
 }
 ol li:target {
   text-decoration: underline;
-  text-decoration-color: solid pink;
+  text-decoration-color: hotpink;
 }
 .logo {
 	margin-bottom: 20px;
