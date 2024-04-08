@@ -361,7 +361,8 @@ div.articleRightInner {
 	overflow: hidden;
 }
 ol li:target {
-  background-color: solid pink;
+  text-decoration: underline;
+  text-decoration-color: solid pink;
 }
 .logo {
 	margin-bottom: 20px;
